@@ -71,8 +71,8 @@ li {
   .navbar__menu {
     flex-direction: column;
     align-items: center;
-    display: none;
     width: 100%;
+    display: none;
   }
 
   .navbar__menu li {
@@ -83,6 +83,7 @@ li {
   .navbar__icons {
     justify-content: center;
     width: 100%;
+    cursor: pointer;
     display: none;
   }
 
